@@ -93,7 +93,8 @@ CBF와 NCF 점수를 결합해 최종 추천 결과를 생성합니다.
 
 - **NDCG@10 = 0.8401**
 
-![NeuMF Evaluation Result](images/neumf_evaluation.png)
+<img width="413" height="163" alt="image" src="https://github.com/user-attachments/assets/20a0f9ed-49a6-4007-8e12-d4f8980f754f" />
+
 
 ---
 
